@@ -11,6 +11,6 @@
     <title>健康码显示</title>
   </head>
   <body>
-  <h1 style="color: aqua">hello idea</h1 >
+  <h1 style="color: aqua">hello idea </h1 >
   </body>
 </html>
